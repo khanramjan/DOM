@@ -1,0 +1,21 @@
+.paraStyle{
+    color: red;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.soundButton{
+    background-color: green;
+    height: 50px;
+    width: 100px;
+}
+
+.soundButtonAnim{
+height: 100px;
+width: 200px;
+box-shadow: 10px 20px 15px rgba(67, 11, 173, 0.3);
+border-radius: 20px;
+
+
+
+}
